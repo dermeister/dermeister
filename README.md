@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Denis Duzh
 - 👀 I’m interested in operating systems development, distributed computing and building user interfaces
 - 🌱 I’m currently learning the concept of transactionally-reactive programming
-- 📫 You can reach me in [LinkedIn](www.linkedin.com/in/denis-duzh) or by [e-mail](duzh.denis@gmail.com)
+- 📫 You can reach me in [LinkedIn](https://linkedin.com/in/denis-duzh) or by [e-mail](duzh.denis@gmail.com)
